@@ -1,0 +1,1001 @@
+Product,Day,Time,Inventory,Demand,Festival,Price
+Chocolate Cake,Sat,Afternoon,86,High,1,308
+Rainbow Cake,Sat,Afternoon,41,Very Low,1,447
+Strawberry Cake,Thu,Afternoon,50,Medium,0,240
+Red Velvet Cake,Wed,Evening,99,Medium,0,350
+Vanilla Cake,Wed,Morning,50,Medium,0,200
+Vanilla Cake,Mon,Morning,50,Medium,0,200
+Butterscotch Cake,Sat,Morning,30,High,0,298
+Pineapple Cake,Sun,Morning,19,Very Low,0,231
+Pineapple Cake,Sun,Evening,76,Very High,0,220
+Black Forest Cake,Sun,Morning,94,Medium,0,300
+Black Forest Cake,Wed,Evening,83,Very High,1,345
+Vanilla Cake,Fri,Evening,81,High,0,216
+Butterscotch Cake,Mon,Afternoon,47,Low,1,282
+Black Forest Cake,Thu,Evening,97,Very High,0,300
+Butterscotch Cake,Sat,Morning,75,High,1,323
+Chocolate Cake,Mon,Afternoon,95,Very Low,0,250
+Rainbow Cake,Sat,Morning,85,Very Low,1,441
+Red Velvet Cake,Thu,Morning,12,Very Low,1,379
+Chocolate Cake,Mon,Afternoon,36,Very High,0,250
+Red Velvet Cake,Wed,Afternoon,26,Very High,0,359
+Pineapple Cake,Fri,Morning,62,High,0,249
+Rainbow Cake,Sat,Evening,80,Very High,0,400
+Red Velvet Cake,Thu,Evening,50,Medium,1,389
+Butterscotch Cake,Sat,Evening,83,Medium,0,260
+Vanilla Cake,Thu,Morning,30,High,0,217
+Strawberry Cake,Thu,Evening,20,High,1,307
+Chocolate Cake,Fri,Afternoon,41,Low,0,233
+Red Velvet Cake,Mon,Evening,24,Very Low,0,356
+Red Velvet Cake,Tue,Afternoon,24,High,1,387
+Rainbow Cake,Mon,Evening,89,Very Low,1,432
+Chocolate Cake,Sun,Morning,31,Very High,1,279
+Butterscotch Cake,Fri,Afternoon,29,High,0,311
+Pineapple Cake,Sun,Evening,80,Very High,0,220
+Strawberry Cake,Sat,Evening,95,Very High,0,240
+Butterscotch Cake,Tue,Afternoon,14,High,1,324
+Pineapple Cake,Mon,Afternoon,15,High,1,273
+Strawberry Cake,Fri,Afternoon,59,High,1,284
+Rainbow Cake,Sun,Afternoon,93,Very Low,1,427
+Chocolate Cake,Sun,Afternoon,58,High,0,274
+Chocolate Cake,Thu,Afternoon,24,Medium,0,264
+Red Velvet Cake,Mon,Afternoon,21,Low,0,351
+Vanilla Cake,Wed,Evening,54,High,0,221
+Strawberry Cake,Sat,Evening,69,Very High,1,277
+Chocolate Cake,Tue,Morning,39,High,1,286
+Butterscotch Cake,Sun,Evening,75,Very High,1,286
+Red Velvet Cake,Mon,Evening,15,High,0,388
+Rainbow Cake,Sun,Morning,33,High,1,485
+Chocolate Cake,Fri,Afternoon,27,Medium,0,255
+Chocolate Cake,Mon,Morning,48,Medium,1,292
+Rainbow Cake,Sat,Afternoon,81,Very Low,1,437
+Strawberry Cake,Mon,Morning,20,Medium,1,260
+Strawberry Cake,Tue,Evening,33,Low,0,233
+Vanilla Cake,Tue,Afternoon,39,Very Low,0,200
+Chocolate Cake,Sun,Morning,19,Low,1,281
+Black Forest Cake,Fri,Morning,72,High,1,366
+Red Velvet Cake,Sat,Morning,17,High,0,395
+Red Velvet Cake,Sun,Morning,36,Medium,0,350
+Red Velvet Cake,Thu,Afternoon,42,Low,0,333
+Red Velvet Cake,Fri,Afternoon,100,Medium,1,393
+Pineapple Cake,Thu,Evening,39,Very High,0,220
+Chocolate Cake,Mon,Evening,27,Low,1,273
+Red Velvet Cake,Tue,Morning,12,Medium,0,355
+Pineapple Cake,Thu,Evening,30,Very Low,1,255
+Red Velvet Cake,Tue,Morning,95,Very Low,1,390
+Rainbow Cake,Sun,Afternoon,48,Low,0,389
+Chocolate Cake,Sat,Evening,53,Very High,1,295
+Vanilla Cake,Fri,Afternoon,96,High,0,224
+Black Forest Cake,Mon,Afternoon,87,Low,1,312
+Butterscotch Cake,Mon,Evening,57,Low,1,268
+Vanilla Cake,Thu,Evening,69,Very Low,0,200
+Butterscotch Cake,Wed,Morning,47,Medium,1,294
+Chocolate Cake,Tue,Evening,55,Very Low,1,285
+Black Forest Cake,Wed,Morning,98,Very Low,0,300
+Chocolate Cake,Tue,Morning,95,Very High,1,275
+Butterscotch Cake,Tue,Morning,21,Very High,0,272
+Black Forest Cake,Thu,Evening,84,Very High,1,333
+Pineapple Cake,Sun,Morning,18,Medium,1,246
+Strawberry Cake,Tue,Evening,46,High,0,255
+Red Velvet Cake,Tue,Afternoon,16,High,1,407
+Butterscotch Cake,Mon,Morning,12,High,0,288
+Pineapple Cake,Sat,Evening,30,Medium,1,251
+Red Velvet Cake,Fri,Evening,25,High,1,387
+Pineapple Cake,Thu,Morning,98,Medium,1,263
+Rainbow Cake,Thu,Afternoon,67,High,1,459
+Chocolate Cake,Mon,Evening,64,Medium,0,250
+Strawberry Cake,Mon,Morning,87,Very High,0,240
+Red Velvet Cake,Mon,Afternoon,87,Very Low,0,350
+Strawberry Cake,Wed,Morning,56,High,0,262
+Vanilla Cake,Sat,Morning,85,Low,0,182
+Red Velvet Cake,Tue,Afternoon,46,Medium,1,378
+Chocolate Cake,Sun,Afternoon,49,Very High,0,250
+Red Velvet Cake,Sat,Morning,85,High,0,385
+Chocolate Cake,Fri,Evening,33,High,1,321
+Red Velvet Cake,Sun,Evening,31,Very High,1,365
+Rainbow Cake,Sun,Afternoon,76,High,1,455
+Black Forest Cake,Sun,Morning,44,Low,1,312
+Strawberry Cake,Sun,Morning,83,High,1,285
+Vanilla Cake,Fri,Morning,88,Low,0,195
+Black Forest Cake,Wed,Morning,20,Very Low,0,306
+Red Velvet Cake,Mon,Afternoon,38,Medium,0,350
+Red Velvet Cake,Thu,Afternoon,43,High,1,386
+Chocolate Cake,Fri,Evening,91,Medium,0,250
+Red Velvet Cake,Mon,Morning,45,Very Low,0,350
+Chocolate Cake,Mon,Morning,41,Very High,1,295
+Strawberry Cake,Fri,Morning,13,Very High,1,278
+Pineapple Cake,Wed,Afternoon,47,Low,1,239
+Red Velvet Cake,Sun,Morning,53,Low,1,369
+Black Forest Cake,Wed,Evening,35,Very High,0,300
+Red Velvet Cake,Wed,Afternoon,89,Very High,1,381
+Rainbow Cake,Fri,Evening,50,Very Low,0,400
+Rainbow Cake,Tue,Evening,25,Very Low,1,452
+Strawberry Cake,Fri,Evening,44,High,0,257
+Vanilla Cake,Thu,Evening,52,High,1,258
+Rainbow Cake,Fri,Evening,76,Very High,0,400
+Strawberry Cake,Thu,Morning,82,Very Low,1,260
+Rainbow Cake,Sat,Evening,98,Low,0,394
+Red Velvet Cake,Sun,Evening,23,Medium,0,357
+Chocolate Cake,Wed,Evening,85,Very Low,0,250
+Pineapple Cake,Sun,Evening,93,Medium,0,220
+Rainbow Cake,Sat,Afternoon,15,Very Low,0,405
+Vanilla Cake,Fri,Afternoon,93,High,0,231
+Butterscotch Cake,Fri,Afternoon,38,High,1,305
+Rainbow Cake,Tue,Morning,36,Low,0,381
+Red Velvet Cake,Mon,Afternoon,92,Very High,0,350
+Black Forest Cake,Thu,Morning,37,High,1,359
+Butterscotch Cake,Tue,Afternoon,23,Low,0,249
+Chocolate Cake,Wed,Evening,67,Very High,1,265
+Vanilla Cake,Fri,Evening,49,Medium,0,200
+Red Velvet Cake,Sat,Afternoon,49,Medium,1,373
+Vanilla Cake,Mon,Afternoon,68,Very Low,0,200
+Black Forest Cake,Thu,Afternoon,19,Medium,0,311
+Strawberry Cake,Wed,Evening,37,High,0,251
+Red Velvet Cake,Sat,Afternoon,17,Very High,0,361
+Chocolate Cake,Sat,Morning,18,Medium,1,279
+Pineapple Cake,Sat,Evening,57,Low,1,242
+Red Velvet Cake,Sat,Evening,89,Low,1,371
+Pineapple Cake,Tue,Afternoon,36,Very High,0,220
+Butterscotch Cake,Fri,Evening,78,Low,1,260
+Vanilla Cake,Wed,Evening,60,Low,0,189
+Strawberry Cake,Fri,Evening,43,Very Low,1,273
+Black Forest Cake,Tue,Morning,83,Very High,0,300
+Black Forest Cake,Fri,Afternoon,75,High,0,319
+Rainbow Cake,Sat,Afternoon,17,Very Low,1,460
+Red Velvet Cake,Sun,Afternoon,25,Medium,0,364
+Butterscotch Cake,Wed,Morning,47,Very High,1,289
+Pineapple Cake,Fri,Evening,59,Low,0,208
+Butterscotch Cake,Tue,Afternoon,17,Low,0,263
+Black Forest Cake,Mon,Afternoon,27,Very High,0,312
+Strawberry Cake,Mon,Afternoon,34,Very High,1,280
+Pineapple Cake,Tue,Evening,18,Low,0,220
+Rainbow Cake,Wed,Evening,59,High,0,416
+Red Velvet Cake,Mon,Morning,38,High,0,382
+Rainbow Cake,Fri,Morning,31,Very Low,0,400
+Chocolate Cake,Fri,Evening,47,Low,0,240
+Chocolate Cake,Thu,Morning,41,Low,1,264
+Pineapple Cake,Mon,Morning,29,Very High,0,235
+Rainbow Cake,Thu,Evening,36,High,0,420
+Butterscotch Cake,Tue,Afternoon,63,High,1,317
+Red Velvet Cake,Sat,Evening,47,Medium,1,372
+Vanilla Cake,Thu,Evening,35,High,1,255
+Pineapple Cake,Sun,Morning,68,Very High,1,258
+Butterscotch Cake,Mon,Morning,28,Medium,0,274
+Rainbow Cake,Fri,Morning,57,High,1,471
+Rainbow Cake,Sun,Afternoon,26,Very Low,0,408
+Rainbow Cake,Sun,Afternoon,27,Low,0,400
+Vanilla Cake,Tue,Morning,40,Low,0,182
+Vanilla Cake,Mon,Evening,72,Very Low,0,200
+Chocolate Cake,Fri,Evening,14,Very Low,0,261
+Red Velvet Cake,Sat,Afternoon,95,Low,1,377
+Black Forest Cake,Fri,Afternoon,42,Very Low,1,320
+Red Velvet Cake,Fri,Afternoon,93,Low,1,368
+Black Forest Cake,Fri,Morning,66,Medium,1,323
+Red Velvet Cake,Sat,Morning,25,Medium,1,394
+Chocolate Cake,Sun,Morning,80,High,0,263
+Pineapple Cake,Mon,Morning,18,Medium,1,278
+Strawberry Cake,Thu,Morning,29,Medium,0,255
+Butterscotch Cake,Sun,Evening,63,Low,1,273
+Pineapple Cake,Mon,Evening,66,Medium,1,249
+Strawberry Cake,Thu,Evening,47,High,0,250
+Pineapple Cake,Wed,Morning,60,Medium,1,235
+Pineapple Cake,Sun,Evening,29,Medium,1,270
+Black Forest Cake,Sat,Morning,13,High,1,354
+Strawberry Cake,Thu,Morning,33,High,0,258
+Strawberry Cake,Sun,Afternoon,70,Low,0,225
+Chocolate Cake,Wed,Afternoon,78,Low,1,263
+Pineapple Cake,Mon,Evening,30,High,1,277
+Strawberry Cake,Thu,Afternoon,90,Low,1,243
+Rainbow Cake,Tue,Morning,14,Medium,0,413
+Red Velvet Cake,Fri,Evening,92,Medium,1,369
+Black Forest Cake,Sun,Afternoon,25,High,1,349
+Rainbow Cake,Wed,Morning,82,Very High,0,400
+Rainbow Cake,Fri,Morning,49,High,1,475
+Black Forest Cake,Wed,Afternoon,40,High,0,334
+Black Forest Cake,Sun,Evening,96,Very Low,1,342
+Red Velvet Cake,Sat,Evening,72,Very Low,1,378
+Pineapple Cake,Wed,Evening,24,High,1,283
+Red Velvet Cake,Thu,Evening,23,Medium,0,360
+Rainbow Cake,Sat,Evening,32,Medium,0,400
+Red Velvet Cake,Sat,Afternoon,30,Very Low,0,350
+Rainbow Cake,Sat,Evening,78,Very Low,0,400
+Butterscotch Cake,Fri,Afternoon,24,High,1,331
+Pineapple Cake,Sat,Morning,27,High,1,301
+Vanilla Cake,Wed,Evening,87,Very Low,0,200
+Pineapple Cake,Tue,Evening,10,High,0,259
+Pineapple Cake,Wed,Afternoon,83,Medium,0,220
+Red Velvet Cake,Mon,Afternoon,84,Low,0,328
+Red Velvet Cake,Tue,Afternoon,38,High,0,375
+Red Velvet Cake,Fri,Evening,100,Very Low,0,350
+Vanilla Cake,Mon,Evening,16,Very Low,1,226
+Black Forest Cake,Sat,Afternoon,68,Medium,1,326
+Black Forest Cake,Thu,Evening,42,High,0,329
+Pineapple Cake,Sun,Morning,81,Low,1,229
+Chocolate Cake,Wed,Evening,84,Very Low,0,250
+Vanilla Cake,Thu,Evening,82,Low,1,209
+Rainbow Cake,Sun,Morning,59,High,1,455
+Butterscotch Cake,Sat,Evening,74,Low,0,237
+Pineapple Cake,Thu,Evening,61,High,1,253
+Vanilla Cake,Fri,Afternoon,65,Very Low,0,200
+Butterscotch Cake,Fri,Morning,60,Low,0,255
+Rainbow Cake,Thu,Morning,49,Very Low,0,400
+Strawberry Cake,Thu,Evening,31,Low,1,259
+Rainbow Cake,Fri,Afternoon,10,High,0,440
+Butterscotch Cake,Sun,Evening,27,High,0,296
+Black Forest Cake,Thu,Afternoon,84,Low,0,278
+Rainbow Cake,Mon,Morning,29,Very Low,1,448
+Strawberry Cake,Thu,Evening,49,Low,1,264
+Rainbow Cake,Sun,Morning,21,Medium,1,432
+Strawberry Cake,Wed,Evening,21,Low,0,245
+Black Forest Cake,Sun,Evening,18,Low,0,297
+Black Forest Cake,Sat,Morning,61,Medium,0,300
+Strawberry Cake,Wed,Afternoon,80,Medium,0,240
+Red Velvet Cake,Fri,Afternoon,29,High,0,388
+Pineapple Cake,Fri,Afternoon,19,Medium,0,235
+Vanilla Cake,Mon,Evening,29,Very High,1,232
+Strawberry Cake,Sun,Afternoon,30,Medium,1,286
+Black Forest Cake,Thu,Evening,61,Very Low,1,348
+Butterscotch Cake,Tue,Evening,58,Very High,1,295
+Butterscotch Cake,Tue,Afternoon,26,High,0,310
+Red Velvet Cake,Tue,Afternoon,68,Very Low,0,350
+Rainbow Cake,Sun,Morning,83,Very Low,1,433
+Butterscotch Cake,Mon,Evening,76,Low,1,268
+Chocolate Cake,Tue,Evening,18,High,1,317
+Red Velvet Cake,Tue,Morning,64,High,1,405
+Butterscotch Cake,Wed,Afternoon,83,Very High,1,292
+Vanilla Cake,Tue,Afternoon,71,High,1,261
+Butterscotch Cake,Thu,Afternoon,64,High,1,342
+Black Forest Cake,Sat,Morning,74,Low,1,329
+Rainbow Cake,Tue,Evening,19,High,0,421
+Black Forest Cake,Sun,Afternoon,50,Very Low,1,349
+Chocolate Cake,Thu,Evening,55,Medium,1,272
+Red Velvet Cake,Thu,Afternoon,43,High,0,364
+Black Forest Cake,Tue,Morning,79,Very High,0,300
+Black Forest Cake,Sun,Evening,96,Very Low,0,300
+Rainbow Cake,Fri,Morning,18,High,0,444
+Rainbow Cake,Thu,Afternoon,20,High,0,446
+Strawberry Cake,Sun,Afternoon,18,High,0,274
+Pineapple Cake,Mon,Afternoon,96,Low,0,209
+Butterscotch Cake,Thu,Morning,96,Low,0,241
+Butterscotch Cake,Wed,Afternoon,20,High,1,311
+Black Forest Cake,Tue,Evening,30,Low,0,283
+Strawberry Cake,Mon,Afternoon,86,Very Low,0,240
+Black Forest Cake,Fri,Evening,91,High,0,313
+Strawberry Cake,Mon,Evening,50,Medium,1,273
+Red Velvet Cake,Sat,Morning,31,Very High,1,397
+Red Velvet Cake,Mon,Evening,59,High,0,385
+Rainbow Cake,Tue,Morning,79,Very Low,1,441
+Black Forest Cake,Mon,Morning,91,Very High,1,329
+Vanilla Cake,Tue,Morning,78,Very Low,1,243
+Pineapple Cake,Sat,Morning,69,Medium,0,220
+Rainbow Cake,Sat,Morning,31,Low,0,378
+Vanilla Cake,Wed,Evening,15,High,0,248
+Chocolate Cake,Mon,Afternoon,78,Medium,0,250
+Pineapple Cake,Thu,Morning,87,Very High,0,220
+Chocolate Cake,Sun,Afternoon,65,High,1,300
+Rainbow Cake,Sat,Afternoon,64,Very High,0,400
+Vanilla Cake,Sat,Evening,57,Very High,0,200
+Vanilla Cake,Thu,Morning,71,Very Low,1,226
+Vanilla Cake,Sun,Afternoon,29,High,1,284
+Rainbow Cake,Sat,Evening,87,Very Low,0,400
+Pineapple Cake,Sat,Morning,100,Medium,1,259
+Butterscotch Cake,Wed,Morning,84,Medium,1,297
+Butterscotch Cake,Mon,Afternoon,81,High,0,292
+Black Forest Cake,Mon,Afternoon,76,Very Low,1,326
+Strawberry Cake,Wed,Morning,15,Low,1,281
+Red Velvet Cake,Sun,Afternoon,11,Medium,1,397
+Chocolate Cake,Thu,Evening,76,High,0,284
+Vanilla Cake,Thu,Evening,39,Very Low,1,229
+Pineapple Cake,Sun,Afternoon,90,Very Low,1,244
+Vanilla Cake,Sun,Afternoon,29,High,1,284
+Rainbow Cake,Sat,Evening,69,Very Low,0,400
+Black Forest Cake,Tue,Morning,28,Very Low,1,352
+Red Velvet Cake,Thu,Evening,94,Low,1,385
+Pineapple Cake,Fri,Afternoon,10,High,0,253
+Chocolate Cake,Sun,Morning,10,Low,0,245
+Strawberry Cake,Wed,Evening,38,Very Low,0,240
+Vanilla Cake,Wed,Afternoon,47,Very Low,0,200
+Rainbow Cake,Sat,Morning,57,Low,0,390
+Vanilla Cake,Fri,Morning,46,Medium,0,200
+Vanilla Cake,Tue,Evening,48,Low,1,226
+Pineapple Cake,Wed,Morning,31,Very High,1,268
+Butterscotch Cake,Mon,Morning,69,Very High,0,260
+Red Velvet Cake,Mon,Morning,95,Low,1,364
+Chocolate Cake,Thu,Evening,30,Medium,0,250
+Rainbow Cake,Fri,Evening,84,Medium,0,400
+Black Forest Cake,Fri,Morning,47,High,0,311
+Pineapple Cake,Fri,Evening,20,Very High,0,232
+Black Forest Cake,Mon,Evening,31,Very High,0,300
+Red Velvet Cake,Fri,Evening,26,High,1,430
+Vanilla Cake,Thu,Afternoon,57,Very High,0,200
+Black Forest Cake,Thu,Evening,77,Medium,1,319
+Red Velvet Cake,Fri,Morning,14,Low,0,344
+Rainbow Cake,Fri,Afternoon,11,Very Low,1,421
+Rainbow Cake,Tue,Morning,53,Medium,0,400
+Strawberry Cake,Mon,Morning,12,High,0,268
+Butterscotch Cake,Sun,Evening,33,High,0,293
+Rainbow Cake,Wed,Morning,42,Very Low,1,443
+Vanilla Cake,Fri,Evening,59,Very High,1,249
+Rainbow Cake,Fri,Evening,41,High,1,477
+Rainbow Cake,Wed,Afternoon,15,Medium,1,451
+Chocolate Cake,Wed,Morning,30,Very Low,0,250
+Red Velvet Cake,Thu,Evening,23,High,0,397
+Vanilla Cake,Mon,Morning,63,Low,0,177
+Vanilla Cake,Sat,Morning,33,Low,1,203
+Rainbow Cake,Mon,Evening,33,High,1,462
+Butterscotch Cake,Thu,Evening,79,Very Low,0,260
+Red Velvet Cake,Wed,Afternoon,22,Very Low,0,361
+Rainbow Cake,Sun,Afternoon,12,Medium,0,405
+Vanilla Cake,Thu,Afternoon,66,High,1,275
+Pineapple Cake,Mon,Evening,59,Very Low,0,220
+Vanilla Cake,Wed,Afternoon,34,Very High,0,200
+Butterscotch Cake,Thu,Morning,57,Very High,1,276
+Pineapple Cake,Sat,Morning,39,Low,0,204
+Red Velvet Cake,Sat,Evening,87,Medium,1,400
+Chocolate Cake,Sat,Evening,29,Very Low,0,264
+Red Velvet Cake,Sat,Afternoon,75,Low,0,334
+Chocolate Cake,Tue,Morning,100,Low,1,270
+Strawberry Cake,Sat,Morning,33,Very Low,1,271
+Red Velvet Cake,Tue,Evening,93,Low,1,358
+Red Velvet Cake,Wed,Morning,45,Medium,0,350
+Pineapple Cake,Sun,Afternoon,56,Low,1,250
+Chocolate Cake,Mon,Evening,90,Medium,0,250
+Butterscotch Cake,Sat,Afternoon,27,High,0,281
+Chocolate Cake,Thu,Evening,41,Very Low,0,250
+Butterscotch Cake,Sun,Evening,42,Medium,0,260
+Butterscotch Cake,Tue,Morning,23,Very Low,1,300
+Vanilla Cake,Tue,Afternoon,80,High,1,239
+Strawberry Cake,Mon,Morning,48,Very High,0,240
+Rainbow Cake,Fri,Afternoon,62,Very High,1,438
+Pineapple Cake,Tue,Afternoon,68,Medium,1,268
+Black Forest Cake,Thu,Evening,43,Very Low,0,300
+Chocolate Cake,Sun,Afternoon,69,Low,0,228
+Red Velvet Cake,Wed,Afternoon,53,Medium,0,350
+Red Velvet Cake,Mon,Evening,10,Very High,1,378
+Red Velvet Cake,Thu,Afternoon,37,High,1,422
+Red Velvet Cake,Thu,Evening,50,High,1,434
+Red Velvet Cake,Fri,Evening,63,Very High,0,350
+Butterscotch Cake,Tue,Morning,95,Low,0,247
+Vanilla Cake,Sun,Morning,31,Low,0,184
+Butterscotch Cake,Tue,Morning,44,Very Low,1,293
+Black Forest Cake,Sun,Evening,43,Medium,1,334
+Red Velvet Cake,Tue,Evening,89,Very Low,0,350
+Chocolate Cake,Mon,Morning,33,Very Low,0,250
+Vanilla Cake,Sat,Morning,92,Medium,0,200
+Black Forest Cake,Mon,Afternoon,74,Very Low,1,330
+Vanilla Cake,Thu,Morning,59,Very Low,0,200
+Rainbow Cake,Sat,Afternoon,18,Very High,0,409
+Black Forest Cake,Sun,Afternoon,45,Very High,1,334
+Butterscotch Cake,Thu,Morning,21,Low,1,266
+Strawberry Cake,Tue,Afternoon,65,Very Low,1,268
+Chocolate Cake,Sun,Evening,83,Medium,1,295
+Strawberry Cake,Sun,Afternoon,90,Very Low,1,285
+Chocolate Cake,Thu,Morning,68,Very High,1,273
+Black Forest Cake,Mon,Morning,23,Medium,1,351
+Vanilla Cake,Sun,Afternoon,73,Very Low,1,240
+Rainbow Cake,Sat,Afternoon,51,Medium,1,428
+Strawberry Cake,Wed,Evening,57,Medium,0,240
+Red Velvet Cake,Sat,Afternoon,66,Low,1,373
+Pineapple Cake,Wed,Afternoon,16,Medium,0,228
+Strawberry Cake,Thu,Afternoon,16,Very Low,1,287
+Vanilla Cake,Tue,Afternoon,46,Medium,1,249
+Black Forest Cake,Thu,Evening,74,High,1,368
+Chocolate Cake,Wed,Morning,34,High,1,295
+Red Velvet Cake,Thu,Evening,58,High,0,382
+Rainbow Cake,Fri,Afternoon,63,Low,1,437
+Chocolate Cake,Wed,Evening,39,Very Low,0,250
+Butterscotch Cake,Fri,Afternoon,19,Medium,0,274
+Strawberry Cake,Sun,Afternoon,84,Very High,1,285
+Black Forest Cake,Sun,Evening,95,Very High,0,300
+Black Forest Cake,Wed,Afternoon,20,Very Low,0,308
+Butterscotch Cake,Thu,Evening,92,Medium,1,310
+Pineapple Cake,Wed,Morning,84,Low,0,201
+Rainbow Cake,Wed,Morning,57,High,1,468
+Vanilla Cake,Fri,Morning,32,Very Low,1,247
+Pineapple Cake,Mon,Morning,64,Very High,0,220
+Red Velvet Cake,Tue,Afternoon,81,Very Low,1,392
+Rainbow Cake,Thu,Morning,17,Low,0,381
+Pineapple Cake,Thu,Afternoon,40,Very High,1,243
+Strawberry Cake,Fri,Afternoon,98,Medium,1,284
+Pineapple Cake,Sat,Afternoon,97,High,1,292
+Black Forest Cake,Fri,Afternoon,56,Medium,1,330
+Black Forest Cake,Fri,Afternoon,74,Medium,1,322
+Black Forest Cake,Fri,Afternoon,98,Very Low,0,300
+Strawberry Cake,Mon,Evening,50,Medium,1,257
+Black Forest Cake,Sat,Evening,50,Medium,0,300
+Red Velvet Cake,Sun,Evening,86,Very High,1,386
+Red Velvet Cake,Sun,Afternoon,33,High,1,385
+Pineapple Cake,Mon,Evening,17,Very High,0,226
+Pineapple Cake,Wed,Afternoon,93,Medium,1,262
+Butterscotch Cake,Sat,Afternoon,81,Very Low,1,279
+Vanilla Cake,Tue,Morning,55,Very Low,1,233
+Strawberry Cake,Thu,Afternoon,58,Medium,0,240
+Vanilla Cake,Mon,Evening,57,Medium,1,227
+Vanilla Cake,Thu,Evening,29,Very Low,1,254
+Rainbow Cake,Sat,Evening,86,High,1,444
+Butterscotch Cake,Thu,Evening,97,Medium,1,306
+Black Forest Cake,Mon,Morning,15,High,1,393
+Pineapple Cake,Wed,Evening,99,Medium,1,241
+Red Velvet Cake,Wed,Morning,52,Very High,1,396
+Strawberry Cake,Mon,Evening,99,Very Low,1,281
+Pineapple Cake,Mon,Morning,77,Low,1,229
+Butterscotch Cake,Wed,Afternoon,32,Very High,0,260
+Strawberry Cake,Mon,Morning,19,High,0,289
+Chocolate Cake,Fri,Evening,100,Very Low,0,250
+Butterscotch Cake,Wed,Evening,30,Very Low,0,260
+Rainbow Cake,Wed,Evening,56,Low,1,424
+Chocolate Cake,Sat,Morning,51,High,0,274
+Butterscotch Cake,Sat,Afternoon,81,High,1,316
+Chocolate Cake,Tue,Morning,34,Very High,1,287
+Butterscotch Cake,Mon,Evening,31,Very Low,0,260
+Butterscotch Cake,Sat,Afternoon,42,Very Low,1,289
+Red Velvet Cake,Tue,Evening,50,Very Low,1,398
+Black Forest Cake,Sun,Afternoon,70,Medium,0,300
+Butterscotch Cake,Wed,Afternoon,15,Low,0,263
+Red Velvet Cake,Thu,Evening,74,Low,1,379
+Vanilla Cake,Sat,Evening,91,Very Low,1,218
+Black Forest Cake,Sat,Morning,64,Very Low,0,300
+Vanilla Cake,Thu,Afternoon,55,Medium,1,232
+Pineapple Cake,Thu,Morning,12,High,1,262
+Black Forest Cake,Sat,Morning,49,Very Low,0,300
+Chocolate Cake,Tue,Evening,13,Very High,1,291
+Red Velvet Cake,Sat,Evening,32,Very High,1,379
+Vanilla Cake,Wed,Afternoon,43,Low,1,222
+Strawberry Cake,Thu,Afternoon,75,Low,1,241
+Rainbow Cake,Sun,Morning,31,High,0,413
+Pineapple Cake,Sun,Morning,93,Very High,0,220
+Butterscotch Cake,Sun,Morning,58,Low,1,255
+Rainbow Cake,Fri,Afternoon,78,Medium,0,400
+Vanilla Cake,Mon,Morning,41,Very High,1,245
+Pineapple Cake,Mon,Evening,49,Low,0,195
+Pineapple Cake,Sat,Morning,45,Low,1,257
+Rainbow Cake,Mon,Evening,85,Medium,1,430
+Vanilla Cake,Fri,Morning,91,Very Low,0,200
+Butterscotch Cake,Tue,Evening,29,High,0,287
+Butterscotch Cake,Sat,Evening,55,Low,0,245
+Vanilla Cake,Tue,Afternoon,43,Low,1,216
+Black Forest Cake,Tue,Morning,41,Medium,1,340
+Chocolate Cake,Tue,Morning,33,High,0,267
+Rainbow Cake,Mon,Evening,96,Very High,0,400
+Vanilla Cake,Mon,Evening,87,Very Low,0,200
+Red Velvet Cake,Tue,Evening,97,Medium,0,350
+Strawberry Cake,Fri,Evening,44,Very Low,0,240
+Pineapple Cake,Sat,Afternoon,29,High,1,296
+Butterscotch Cake,Fri,Morning,38,Very Low,1,287
+Butterscotch Cake,Fri,Morning,91,Very High,0,260
+Red Velvet Cake,Thu,Afternoon,96,Very Low,0,350
+Black Forest Cake,Wed,Afternoon,44,High,0,332
+Black Forest Cake,Tue,Evening,53,Medium,1,336
+Black Forest Cake,Wed,Afternoon,36,High,0,331
+Rainbow Cake,Wed,Afternoon,95,Very High,1,423
+Red Velvet Cake,Sun,Morning,60,Medium,1,388
+Pineapple Cake,Sun,Evening,94,Very Low,1,248
+Rainbow Cake,Fri,Afternoon,83,Very High,1,422
+Red Velvet Cake,Mon,Afternoon,42,Medium,1,380
+Chocolate Cake,Sun,Evening,27,Very High,1,303
+Vanilla Cake,Wed,Afternoon,27,Low,1,214
+Vanilla Cake,Fri,Afternoon,69,Very Low,0,200
+Rainbow Cake,Wed,Morning,71,Very High,1,446
+Pineapple Cake,Tue,Morning,32,Medium,1,245
+Black Forest Cake,Wed,Afternoon,80,Very High,0,300
+Pineapple Cake,Wed,Evening,56,Low,0,201
+Strawberry Cake,Thu,Evening,20,Medium,0,252
+Chocolate Cake,Thu,Morning,91,Very Low,0,250
+Butterscotch Cake,Sun,Morning,10,High,0,301
+Pineapple Cake,Sun,Afternoon,31,Very High,0,220
+Rainbow Cake,Tue,Afternoon,29,Very Low,1,459
+Strawberry Cake,Sun,Morning,82,Low,0,228
+Pineapple Cake,Mon,Morning,95,Very High,0,220
+Rainbow Cake,Mon,Evening,34,High,0,421
+Pineapple Cake,Sun,Afternoon,74,Very Low,1,238
+Vanilla Cake,Sun,Morning,55,Medium,1,241
+Rainbow Cake,Sun,Afternoon,64,Medium,1,445
+Strawberry Cake,Sat,Afternoon,15,High,0,288
+Butterscotch Cake,Tue,Afternoon,63,Medium,0,260
+Red Velvet Cake,Sat,Evening,86,Very Low,0,350
+Rainbow Cake,Thu,Afternoon,35,High,0,429
+Red Velvet Cake,Tue,Evening,16,Medium,1,383
+Vanilla Cake,Mon,Morning,13,High,0,247
+Red Velvet Cake,Sun,Evening,59,Low,1,367
+Butterscotch Cake,Thu,Afternoon,36,Very High,0,260
+Rainbow Cake,Sun,Afternoon,86,Low,1,405
+Strawberry Cake,Sat,Afternoon,14,Low,0,238
+Rainbow Cake,Fri,Afternoon,41,Medium,1,432
+Black Forest Cake,Wed,Evening,22,Very Low,0,306
+Pineapple Cake,Mon,Afternoon,79,Medium,0,220
+Butterscotch Cake,Mon,Evening,25,Medium,1,286
+Vanilla Cake,Tue,Afternoon,50,Very High,0,200
+Pineapple Cake,Tue,Evening,64,Very Low,1,237
+Rainbow Cake,Sat,Afternoon,31,Very High,1,423
+Black Forest Cake,Sat,Morning,74,Very High,0,300
+Red Velvet Cake,Mon,Evening,35,Medium,1,398
+Rainbow Cake,Fri,Evening,61,Low,1,404
+Pineapple Cake,Sat,Evening,49,High,1,299
+Chocolate Cake,Fri,Evening,42,Very Low,1,285
+Butterscotch Cake,Thu,Afternoon,36,High,1,309
+Strawberry Cake,Tue,Evening,92,High,1,281
+Chocolate Cake,Sat,Afternoon,48,Low,1,264
+Chocolate Cake,Fri,Evening,73,Low,0,240
+Strawberry Cake,Fri,Evening,25,Very High,1,268
+Red Velvet Cake,Sat,Afternoon,69,Low,0,330
+Rainbow Cake,Fri,Evening,43,Very High,0,400
+Black Forest Cake,Thu,Evening,74,Very High,1,332
+Strawberry Cake,Tue,Morning,70,Low,1,272
+Strawberry Cake,Thu,Evening,30,Low,0,215
+Butterscotch Cake,Sat,Morning,64,Very High,0,260
+Red Velvet Cake,Fri,Evening,59,Medium,1,394
+Red Velvet Cake,Thu,Morning,96,Medium,1,379
+Pineapple Cake,Mon,Afternoon,32,Medium,1,262
+Pineapple Cake,Wed,Afternoon,12,Very High,0,226
+Black Forest Cake,Sun,Afternoon,89,High,1,373
+Vanilla Cake,Thu,Morning,18,Very Low,1,250
+Vanilla Cake,Sat,Afternoon,39,High,1,265
+Strawberry Cake,Tue,Afternoon,45,Very High,1,256
+Vanilla Cake,Fri,Morning,98,High,1,236
+Red Velvet Cake,Sat,Evening,40,Medium,1,395
+Butterscotch Cake,Wed,Afternoon,43,High,1,315
+Vanilla Cake,Fri,Afternoon,75,Low,0,177
+Black Forest Cake,Thu,Evening,69,Low,1,309
+Strawberry Cake,Fri,Morning,12,Low,1,283
+Pineapple Cake,Thu,Morning,58,High,1,277
+Black Forest Cake,Sun,Afternoon,32,Medium,1,344
+Red Velvet Cake,Fri,Evening,42,Very High,0,350
+Butterscotch Cake,Thu,Morning,94,Medium,0,260
+Rainbow Cake,Thu,Morning,17,Very High,0,413
+Butterscotch Cake,Sat,Afternoon,94,Low,0,240
+Red Velvet Cake,Mon,Afternoon,23,Low,1,374
+Strawberry Cake,Sat,Morning,90,Very Low,1,273
+Black Forest Cake,Tue,Morning,49,Medium,0,300
+Black Forest Cake,Thu,Afternoon,18,Low,0,297
+Chocolate Cake,Sun,Morning,56,Low,1,285
+Chocolate Cake,Fri,Morning,19,High,0,281
+Butterscotch Cake,Sun,Afternoon,72,Very High,0,260
+Butterscotch Cake,Mon,Evening,32,Medium,1,306
+Rainbow Cake,Sun,Evening,14,Low,1,418
+Red Velvet Cake,Sat,Afternoon,90,Medium,0,350
+Pineapple Cake,Mon,Afternoon,85,Very High,1,256
+Pineapple Cake,Sat,Afternoon,11,High,1,268
+Strawberry Cake,Wed,Morning,45,High,1,293
+Red Velvet Cake,Tue,Evening,57,High,0,389
+Vanilla Cake,Sat,Morning,88,Medium,0,200
+Strawberry Cake,Sun,Afternoon,41,High,1,295
+Red Velvet Cake,Sat,Morning,77,Low,1,385
+Strawberry Cake,Wed,Morning,66,Very High,1,255
+Vanilla Cake,Sun,Evening,75,Low,0,195
+Red Velvet Cake,Fri,Morning,88,Very High,1,397
+Pineapple Cake,Tue,Evening,14,Very Low,0,226
+Butterscotch Cake,Mon,Afternoon,70,Medium,0,260
+Red Velvet Cake,Sat,Evening,16,High,1,431
+Butterscotch Cake,Thu,Morning,100,Medium,0,260
+Chocolate Cake,Sun,Morning,40,High,0,281
+Butterscotch Cake,Mon,Evening,38,Low,0,243
+Red Velvet Cake,Fri,Evening,48,High,0,389
+Pineapple Cake,Sat,Morning,12,Low,0,211
+Pineapple Cake,Thu,Afternoon,69,High,1,277
+Vanilla Cake,Wed,Morning,36,Medium,0,200
+Vanilla Cake,Mon,Morning,74,Very Low,0,200
+Black Forest Cake,Sat,Evening,92,Very High,1,322
+Red Velvet Cake,Thu,Morning,44,Very High,0,350
+Rainbow Cake,Mon,Morning,72,Very Low,0,400
+Rainbow Cake,Thu,Afternoon,50,Very High,1,438
+Butterscotch Cake,Wed,Morning,34,Low,1,282
+Vanilla Cake,Tue,Morning,36,Very High,0,200
+Chocolate Cake,Tue,Morning,83,Very Low,1,291
+Chocolate Cake,Sun,Morning,95,Very Low,0,250
+Vanilla Cake,Sun,Afternoon,31,Very Low,1,222
+Red Velvet Cake,Wed,Afternoon,47,Very High,1,389
+Chocolate Cake,Sun,Morning,19,Low,1,287
+Black Forest Cake,Tue,Morning,28,Low,1,309
+Vanilla Cake,Tue,Afternoon,91,Very High,0,200
+Pineapple Cake,Tue,Morning,89,Very High,0,220
+Vanilla Cake,Sun,Morning,16,High,0,225
+Butterscotch Cake,Sun,Evening,72,Medium,1,303
+Chocolate Cake,Mon,Morning,34,Very Low,0,250
+Black Forest Cake,Tue,Evening,45,Low,1,313
+Butterscotch Cake,Fri,Afternoon,98,Medium,0,260
+Butterscotch Cake,Sat,Afternoon,75,Medium,0,260
+Red Velvet Cake,Tue,Evening,94,Medium,0,350
+Black Forest Cake,Mon,Evening,60,Very Low,0,300
+Vanilla Cake,Sat,Evening,75,Very High,1,244
+Black Forest Cake,Sun,Morning,23,Very Low,1,336
+Black Forest Cake,Sun,Evening,62,Medium,0,300
+Strawberry Cake,Tue,Afternoon,51,Very High,1,276
+Red Velvet Cake,Sun,Afternoon,47,Low,0,326
+Red Velvet Cake,Tue,Evening,52,Medium,1,366
+Pineapple Cake,Fri,Evening,83,High,0,254
+Pineapple Cake,Wed,Evening,83,Very High,0,220
+Vanilla Cake,Mon,Morning,51,Very Low,1,234
+Black Forest Cake,Tue,Afternoon,19,High,0,343
+Red Velvet Cake,Thu,Morning,42,High,1,435
+Vanilla Cake,Thu,Evening,59,Very High,0,200
+Chocolate Cake,Sun,Afternoon,58,Medium,1,292
+Strawberry Cake,Thu,Afternoon,82,High,0,250
+Rainbow Cake,Thu,Morning,73,Low,1,427
+Chocolate Cake,Mon,Afternoon,66,Medium,1,267
+Black Forest Cake,Thu,Morning,98,High,1,331
+Red Velvet Cake,Tue,Afternoon,18,Very Low,1,379
+Strawberry Cake,Sat,Morning,36,High,1,284
+Butterscotch Cake,Sat,Morning,81,Very Low,1,291
+Vanilla Cake,Tue,Afternoon,18,High,1,281
+Strawberry Cake,Fri,Morning,18,Medium,0,246
+Strawberry Cake,Fri,Afternoon,23,Very Low,0,252
+Pineapple Cake,Wed,Morning,91,Low,1,233
+Red Velvet Cake,Fri,Morning,86,Low,1,359
+Black Forest Cake,Fri,Evening,32,Very High,0,300
+Vanilla Cake,Tue,Evening,10,Very Low,1,250
+Pineapple Cake,Sun,Evening,60,High,0,259
+Rainbow Cake,Thu,Afternoon,86,Medium,0,400
+Rainbow Cake,Sat,Morning,58,Very Low,1,443
+Chocolate Cake,Sun,Evening,34,Very High,0,250
+Rainbow Cake,Fri,Afternoon,27,High,1,472
+Black Forest Cake,Mon,Evening,35,Very High,1,350
+Black Forest Cake,Wed,Afternoon,43,Very Low,0,300
+Butterscotch Cake,Sun,Morning,35,Low,1,269
+Strawberry Cake,Mon,Morning,38,Very High,0,240
+Chocolate Cake,Mon,Evening,93,Medium,1,290
+Red Velvet Cake,Wed,Morning,66,Very Low,1,383
+Pineapple Cake,Thu,Afternoon,44,Very High,1,250
+Vanilla Cake,Mon,Evening,35,Very High,1,248
+Black Forest Cake,Wed,Afternoon,14,Very Low,0,315
+Butterscotch Cake,Sat,Afternoon,39,Low,1,279
+Strawberry Cake,Mon,Evening,96,Medium,1,270
+Vanilla Cake,Mon,Evening,36,Medium,1,231
+Rainbow Cake,Sat,Evening,10,Very High,0,414
+Strawberry Cake,Tue,Afternoon,84,Low,0,225
+Chocolate Cake,Mon,Morning,15,Medium,1,295
+Red Velvet Cake,Fri,Afternoon,21,Medium,0,363
+Rainbow Cake,Tue,Afternoon,48,High,1,474
+Strawberry Cake,Tue,Morning,66,Low,0,224
+Black Forest Cake,Wed,Afternoon,87,Low,1,341
+Vanilla Cake,Wed,Evening,60,Very Low,1,243
+Red Velvet Cake,Tue,Evening,47,Very Low,1,378
+Strawberry Cake,Sun,Morning,81,Very High,0,240
+Butterscotch Cake,Mon,Evening,97,High,1,330
+Strawberry Cake,Fri,Afternoon,96,High,1,302
+Strawberry Cake,Thu,Morning,20,Medium,0,252
+Red Velvet Cake,Tue,Evening,54,Medium,0,350
+Pineapple Cake,Mon,Morning,61,High,1,280
+Butterscotch Cake,Sun,Evening,70,Medium,1,296
+Chocolate Cake,Sun,Afternoon,18,Very Low,1,308
+Black Forest Cake,Tue,Morning,17,Medium,1,328
+Pineapple Cake,Thu,Afternoon,16,High,1,288
+Strawberry Cake,Sat,Evening,49,Very High,1,268
+Vanilla Cake,Fri,Evening,67,Medium,1,227
+Butterscotch Cake,Sun,Evening,34,High,0,298
+Rainbow Cake,Thu,Afternoon,30,Medium,1,449
+Black Forest Cake,Tue,Morning,40,High,0,328
+Butterscotch Cake,Wed,Afternoon,52,Medium,1,282
+Black Forest Cake,Thu,Afternoon,16,High,1,350
+Black Forest Cake,Thu,Evening,80,High,1,339
+Strawberry Cake,Fri,Evening,36,Very High,0,240
+Vanilla Cake,Sun,Morning,88,Very High,1,241
+Red Velvet Cake,Fri,Evening,20,Low,0,359
+Strawberry Cake,Fri,Evening,21,Very Low,0,246
+Butterscotch Cake,Thu,Evening,94,High,1,316
+Rainbow Cake,Fri,Afternoon,40,Very High,1,432
+Butterscotch Cake,Sun,Evening,47,Very High,0,260
+Strawberry Cake,Mon,Morning,98,High,0,256
+Pineapple Cake,Sat,Morning,38,Very Low,0,220
+Red Velvet Cake,Mon,Afternoon,62,Very High,0,350
+Butterscotch Cake,Tue,Afternoon,41,Very Low,0,260
+Black Forest Cake,Sun,Morning,82,Very Low,1,322
+Butterscotch Cake,Mon,Morning,85,High,0,270
+Chocolate Cake,Sat,Evening,78,Low,1,276
+Black Forest Cake,Thu,Evening,72,Very Low,1,333
+Chocolate Cake,Tue,Evening,81,Very Low,0,250
+Rainbow Cake,Thu,Evening,12,Very High,1,458
+Butterscotch Cake,Mon,Evening,21,Very Low,1,322
+Pineapple Cake,Fri,Morning,56,Very High,1,245
+Butterscotch Cake,Sat,Afternoon,68,Very Low,1,302
+Rainbow Cake,Fri,Morning,27,Very High,1,448
+Butterscotch Cake,Tue,Afternoon,43,Very Low,1,303
+Black Forest Cake,Tue,Evening,66,Medium,0,300
+Strawberry Cake,Wed,Morning,13,Medium,1,293
+Strawberry Cake,Thu,Evening,90,Medium,1,278
+Black Forest Cake,Wed,Morning,43,Very Low,1,336
+Pineapple Cake,Sat,Evening,58,Very High,0,220
+Black Forest Cake,Tue,Evening,57,High,0,310
+Rainbow Cake,Wed,Evening,36,Very High,1,447
+Vanilla Cake,Wed,Evening,67,High,1,263
+Butterscotch Cake,Wed,Afternoon,87,Very High,1,299
+Vanilla Cake,Sat,Afternoon,28,Very High,0,212
+Strawberry Cake,Tue,Morning,39,Very Low,0,240
+Rainbow Cake,Sat,Afternoon,64,Very Low,1,430
+Chocolate Cake,Mon,Evening,25,High,0,269
+Strawberry Cake,Sun,Morning,22,Low,1,254
+Vanilla Cake,Mon,Morning,58,Very Low,1,233
+Red Velvet Cake,Sat,Evening,20,High,0,369
+Chocolate Cake,Wed,Evening,65,Very High,1,283
+Chocolate Cake,Mon,Afternoon,24,Very Low,0,258
+Chocolate Cake,Sat,Morning,97,High,0,263
+Chocolate Cake,Wed,Morning,45,Very High,1,293
+Butterscotch Cake,Sun,Morning,77,Medium,1,297
+Chocolate Cake,Mon,Evening,33,Very Low,0,250
+Chocolate Cake,Tue,Morning,100,Medium,1,274
+Vanilla Cake,Tue,Morning,37,Low,0,191
+Chocolate Cake,Wed,Afternoon,66,Very Low,0,250
+Red Velvet Cake,Wed,Afternoon,27,Very Low,1,402
+Red Velvet Cake,Mon,Evening,82,Medium,1,376
+Rainbow Cake,Mon,Evening,23,Low,1,422
+Butterscotch Cake,Wed,Afternoon,37,Medium,1,298
+Rainbow Cake,Wed,Evening,45,Very Low,1,422
+Chocolate Cake,Sat,Morning,99,High,0,264
+Strawberry Cake,Wed,Evening,87,High,1,268
+Rainbow Cake,Tue,Morning,33,Medium,1,442
+Strawberry Cake,Wed,Morning,84,High,1,297
+Rainbow Cake,Sat,Morning,94,High,1,471
+Black Forest Cake,Fri,Morning,56,Medium,1,324
+Pineapple Cake,Mon,Morning,10,Medium,0,231
+Black Forest Cake,Fri,Evening,76,Low,1,325
+Red Velvet Cake,Tue,Afternoon,65,Low,0,325
+Butterscotch Cake,Sat,Evening,79,Low,0,235
+Pineapple Cake,Wed,Evening,52,Medium,0,220
+Butterscotch Cake,Wed,Evening,90,Very High,0,260
+Strawberry Cake,Mon,Evening,38,High,1,320
+Vanilla Cake,Wed,Morning,97,Low,1,240
+Red Velvet Cake,Sun,Morning,91,Very Low,0,350
+Black Forest Cake,Thu,Afternoon,66,Low,1,299
+Butterscotch Cake,Tue,Evening,51,Very High,1,296
+Vanilla Cake,Thu,Evening,91,Low,1,227
+Butterscotch Cake,Mon,Evening,60,Medium,0,260
+Vanilla Cake,Sat,Afternoon,81,Medium,1,223
+Butterscotch Cake,Sat,Afternoon,26,High,0,284
+Red Velvet Cake,Thu,Evening,74,Low,1,343
+Strawberry Cake,Sun,Afternoon,95,Medium,1,259
+Strawberry Cake,Thu,Evening,14,Medium,0,247
+Red Velvet Cake,Mon,Afternoon,54,Medium,1,391
+Pineapple Cake,Sun,Morning,40,Medium,1,267
+Strawberry Cake,Sun,Morning,11,High,1,327
+Rainbow Cake,Tue,Evening,46,Very High,1,428
+Black Forest Cake,Mon,Evening,18,Medium,0,310
+Black Forest Cake,Fri,Evening,45,Very High,0,300
+Vanilla Cake,Tue,Morning,39,Very High,0,200
+Pineapple Cake,Tue,Afternoon,88,High,0,248
+Red Velvet Cake,Thu,Evening,28,Very High,0,356
+Strawberry Cake,Sat,Evening,81,Medium,1,269
+Strawberry Cake,Mon,Morning,10,Medium,0,245
+Strawberry Cake,Wed,Evening,77,High,1,303
+Strawberry Cake,Sun,Morning,36,High,0,276
+Pineapple Cake,Thu,Morning,97,Low,1,230
+Strawberry Cake,Wed,Morning,60,Very High,0,240
+Chocolate Cake,Sun,Morning,85,Low,0,237
+Butterscotch Cake,Fri,Evening,84,Low,1,291
+Rainbow Cake,Fri,Afternoon,59,Low,0,392
+Chocolate Cake,Wed,Morning,68,Very Low,0,250
+Strawberry Cake,Mon,Afternoon,98,Low,1,242
+Pineapple Cake,Sat,Afternoon,34,Very Low,0,220
+Red Velvet Cake,Sun,Evening,83,Very High,1,393
+Rainbow Cake,Thu,Afternoon,63,Very Low,1,444
+Butterscotch Cake,Wed,Morning,76,Low,1,289
+Butterscotch Cake,Fri,Afternoon,45,Very Low,0,260
+Black Forest Cake,Sat,Afternoon,15,Medium,1,342
+Rainbow Cake,Fri,Afternoon,35,High,0,430
+Chocolate Cake,Sat,Morning,66,Low,1,281
+Strawberry Cake,Sun,Evening,59,High,1,292
+Butterscotch Cake,Sun,Morning,17,Low,0,261
+Pineapple Cake,Tue,Evening,24,Very High,1,262
+Black Forest Cake,Wed,Afternoon,12,Very Low,1,324
+Butterscotch Cake,Sat,Evening,23,Low,1,299
+Pineapple Cake,Sat,Morning,28,Very High,0,226
+Red Velvet Cake,Mon,Morning,23,High,1,417
+Rainbow Cake,Sun,Evening,46,Low,1,434
+Vanilla Cake,Sat,Morning,78,Medium,1,233
+Pineapple Cake,Tue,Afternoon,82,Very High,1,244
+Vanilla Cake,Sun,Evening,21,Very Low,0,212
+Vanilla Cake,Wed,Morning,99,Medium,1,223
+Butterscotch Cake,Sun,Afternoon,29,Medium,1,290
+Strawberry Cake,Thu,Morning,13,Medium,1,287
+Strawberry Cake,Sun,Evening,53,Low,1,235
+Butterscotch Cake,Mon,Evening,57,Very Low,1,281
+Rainbow Cake,Mon,Morning,49,Very Low,1,440
+Chocolate Cake,Thu,Afternoon,19,Medium,0,256
+Black Forest Cake,Wed,Afternoon,22,Very Low,1,337
+Chocolate Cake,Fri,Afternoon,19,Very High,0,255
+Butterscotch Cake,Tue,Evening,77,Medium,0,260
+Pineapple Cake,Sun,Afternoon,25,Low,0,216
+Rainbow Cake,Mon,Evening,39,Low,0,383
+Pineapple Cake,Sun,Evening,71,Very High,0,220
+Rainbow Cake,Thu,Afternoon,100,Very High,1,437
+Black Forest Cake,Sun,Evening,87,Very High,0,300
+Black Forest Cake,Sun,Morning,75,Very Low,1,322
+Pineapple Cake,Sat,Afternoon,45,Very High,1,251
+Rainbow Cake,Wed,Afternoon,34,Medium,1,429
+Red Velvet Cake,Sun,Morning,22,High,0,384
+Rainbow Cake,Thu,Afternoon,62,Very Low,1,429
+Red Velvet Cake,Mon,Afternoon,48,Low,0,332
+Pineapple Cake,Mon,Morning,80,Low,1,220
+Red Velvet Cake,Fri,Evening,48,Very Low,0,350
+Rainbow Cake,Fri,Afternoon,53,Very Low,0,400
+Butterscotch Cake,Wed,Morning,19,Very High,0,267
+Black Forest Cake,Fri,Morning,71,Medium,1,343
+Butterscotch Cake,Mon,Afternoon,75,High,1,303
+Pineapple Cake,Mon,Morning,34,Very High,1,270
+Pineapple Cake,Tue,Afternoon,78,Low,1,234
+Rainbow Cake,Mon,Evening,15,High,0,435
+Butterscotch Cake,Sat,Morning,11,High,1,307
+Strawberry Cake,Mon,Afternoon,51,High,0,255
+Strawberry Cake,Thu,Morning,87,Very High,0,240
+Vanilla Cake,Sat,Afternoon,25,Very High,0,206
+Butterscotch Cake,Mon,Evening,49,High,1,330
+Butterscotch Cake,Mon,Morning,25,Very Low,1,308
+Black Forest Cake,Thu,Morning,34,Medium,1,326
+Rainbow Cake,Wed,Evening,87,Very High,0,400
+Chocolate Cake,Mon,Morning,70,High,1,328
+Rainbow Cake,Thu,Afternoon,25,Low,1,415
+Rainbow Cake,Fri,Morning,47,Very Low,0,400
+Butterscotch Cake,Fri,Afternoon,74,Low,1,274
+Rainbow Cake,Tue,Evening,25,Medium,1,429
+Chocolate Cake,Sun,Evening,56,Very High,0,250
+Black Forest Cake,Tue,Afternoon,41,Very High,1,342
+Strawberry Cake,Tue,Afternoon,73,High,0,270
+Rainbow Cake,Thu,Afternoon,29,Medium,1,455
+Vanilla Cake,Thu,Afternoon,95,Very Low,1,236
+Strawberry Cake,Wed,Afternoon,51,High,1,311
+Vanilla Cake,Sun,Evening,46,Low,1,207
+Butterscotch Cake,Sat,Afternoon,35,Low,1,299
+Red Velvet Cake,Wed,Evening,77,Very High,0,350
+Butterscotch Cake,Tue,Morning,41,Medium,0,260
+Chocolate Cake,Fri,Morning,99,Low,1,278
+Butterscotch Cake,Thu,Evening,21,Medium,1,323
+Pineapple Cake,Mon,Evening,67,High,0,239
+Rainbow Cake,Sun,Afternoon,91,High,0,415
+Pineapple Cake,Fri,Morning,85,Low,0,208
+Vanilla Cake,Tue,Evening,24,Very High,1,228
+Pineapple Cake,Fri,Afternoon,25,Medium,1,267
+Butterscotch Cake,Wed,Afternoon,33,Very Low,1,281
+Strawberry Cake,Sat,Afternoon,34,Very High,0,240
+Red Velvet Cake,Sun,Afternoon,20,Very High,1,378
+Pineapple Cake,Sat,Evening,62,High,0,256
+Butterscotch Cake,Mon,Afternoon,87,High,0,291
+Chocolate Cake,Sun,Evening,100,Very Low,0,250
+Vanilla Cake,Sat,Morning,87,Very Low,0,200
+Pineapple Cake,Sat,Afternoon,36,Very Low,0,220
+Pineapple Cake,Wed,Afternoon,68,High,1,281
+Vanilla Cake,Wed,Afternoon,72,Very Low,1,245
+Rainbow Cake,Mon,Afternoon,56,Medium,0,400
+Chocolate Cake,Tue,Evening,65,High,0,274
+Chocolate Cake,Tue,Evening,40,High,1,319
+Strawberry Cake,Tue,Evening,31,Very High,0,240
+Chocolate Cake,Mon,Evening,75,Very Low,1,265
+Pineapple Cake,Fri,Afternoon,68,Very Low,1,267
+Rainbow Cake,Fri,Morning,88,Medium,1,431
+Pineapple Cake,Sat,Afternoon,95,Medium,0,220
+Red Velvet Cake,Fri,Afternoon,99,Very High,1,387
+Butterscotch Cake,Sun,Afternoon,39,Very Low,0,260
+Rainbow Cake,Sun,Morning,25,Low,1,437
+Butterscotch Cake,Fri,Afternoon,27,Very Low,1,286
+Butterscotch Cake,Tue,Morning,96,Low,0,250
+Butterscotch Cake,Wed,Evening,68,Very Low,0,260
+Chocolate Cake,Sat,Morning,32,High,0,286
+Butterscotch Cake,Sun,Evening,25,Low,1,287
+Chocolate Cake,Fri,Afternoon,76,High,0,277
+Vanilla Cake,Sat,Evening,81,Very High,1,232
+Rainbow Cake,Sun,Morning,49,Medium,0,400
+Chocolate Cake,Tue,Evening,98,Low,1,279
+Chocolate Cake,Fri,Morning,93,High,0,265
+Pineapple Cake,Sun,Afternoon,64,Low,0,215
+Rainbow Cake,Fri,Morning,53,High,0,430
+Black Forest Cake,Tue,Afternoon,76,Very Low,0,300
+Strawberry Cake,Thu,Evening,56,Very Low,0,240
+Red Velvet Cake,Thu,Afternoon,34,Very Low,0,350
+Vanilla Cake,Tue,Evening,50,High,0,239
+Rainbow Cake,Wed,Morning,39,Very High,0,400
+Black Forest Cake,Fri,Afternoon,68,Medium,0,300
+Black Forest Cake,Sun,Morning,67,Low,1,304
+Butterscotch Cake,Wed,Morning,72,Very Low,0,260
+Vanilla Cake,Sat,Evening,77,Medium,0,200
+Rainbow Cake,Tue,Evening,94,Very High,0,400
+Pineapple Cake,Sun,Morning,25,Low,0,211
+Chocolate Cake,Mon,Afternoon,53,Very Low,0,250
+Red Velvet Cake,Fri,Evening,51,Medium,1,396
+Butterscotch Cake,Sat,Afternoon,69,Very High,0,260
+Red Velvet Cake,Tue,Evening,76,Low,0,336
+Butterscotch Cake,Sun,Afternoon,27,Very Low,1,316
+Red Velvet Cake,Wed,Afternoon,72,Low,1,354
+Chocolate Cake,Mon,Evening,42,Very Low,0,250
+Pineapple Cake,Fri,Morning,25,Very High,0,230
+Strawberry Cake,Sun,Evening,14,Medium,0,252
+Vanilla Cake,Sat,Afternoon,100,Very High,0,200
+Black Forest Cake,Tue,Morning,85,Very High,1,339
+Butterscotch Cake,Wed,Morning,31,Very High,0,260
+Strawberry Cake,Mon,Evening,49,Low,0,224
+Pineapple Cake,Fri,Afternoon,15,Low,1,239
+Red Velvet Cake,Thu,Afternoon,64,High,1,425
+Rainbow Cake,Fri,Evening,54,Medium,0,400
+Vanilla Cake,Wed,Morning,42,Low,1,228
+Strawberry Cake,Wed,Evening,61,Low,0,216
+Strawberry Cake,Sat,Evening,91,Low,1,257
+Red Velvet Cake,Sat,Afternoon,51,High,0,374
+Butterscotch Cake,Wed,Afternoon,60,High,0,273
+Strawberry Cake,Sat,Afternoon,74,Medium,1,289
+Strawberry Cake,Mon,Evening,64,Medium,0,240
+Vanilla Cake,Fri,Morning,29,Low,1,213
+Black Forest Cake,Sun,Morning,40,Very High,0,300
+Chocolate Cake,Wed,Afternoon,55,High,0,261
+Red Velvet Cake,Sat,Morning,64,Very Low,0,350
+Chocolate Cake,Thu,Morning,74,Very Low,1,282
+Vanilla Cake,Mon,Evening,43,Low,1,211
+Black Forest Cake,Thu,Morning,28,Low,0,299
+Strawberry Cake,Wed,Afternoon,54,Very High,0,240
+Red Velvet Cake,Sun,Morning,97,Very Low,1,396
+Pineapple Cake,Sat,Afternoon,70,Low,1,230
+Red Velvet Cake,Thu,Afternoon,69,Medium,1,394
+Chocolate Cake,Sat,Morning,95,Very Low,0,250
+Vanilla Cake,Mon,Evening,31,Very High,1,246
+Strawberry Cake,Mon,Evening,51,Very High,0,240
+Butterscotch Cake,Fri,Evening,77,Very Low,1,288
+Butterscotch Cake,Fri,Afternoon,89,Very High,1,302
+Vanilla Cake,Mon,Afternoon,62,Low,0,182
+Vanilla Cake,Sat,Evening,18,Low,0,198
+Butterscotch Cake,Tue,Afternoon,20,Very High,1,323
+Chocolate Cake,Fri,Evening,98,Very Low,1,268
+Black Forest Cake,Sat,Evening,89,Very Low,1,331
+Chocolate Cake,Thu,Morning,92,Very Low,1,271
+Red Velvet Cake,Thu,Morning,21,Very High,0,365
+Butterscotch Cake,Thu,Morning,56,Very Low,0,260
+Butterscotch Cake,Mon,Evening,21,Very High,0,268
+Black Forest Cake,Sat,Morning,53,Low,0,294
+Pineapple Cake,Sun,Evening,45,Very High,1,237
+Pineapple Cake,Wed,Afternoon,58,High,0,241
+Black Forest Cake,Wed,Evening,31,Medium,1,350
+Chocolate Cake,Tue,Afternoon,43,Low,1,274
+Rainbow Cake,Fri,Evening,48,Medium,1,426
+Pineapple Cake,Sat,Afternoon,42,Very Low,1,270
+Chocolate Cake,Sat,Morning,10,Medium,0,255
+Red Velvet Cake,Mon,Evening,67,Very High,0,350
+Pineapple Cake,Sat,Morning,18,Medium,0,227
+Strawberry Cake,Thu,Afternoon,42,Very High,0,240
+Strawberry Cake,Sun,Morning,40,Low,0,224
+Rainbow Cake,Thu,Evening,66,Very High,1,439
+Chocolate Cake,Mon,Evening,29,Very High,1,306
+Rainbow Cake,Wed,Afternoon,31,High,1,443
+Pineapple Cake,Fri,Morning,47,Very Low,0,220
+Butterscotch Cake,Fri,Morning,66,High,0,273
+Strawberry Cake,Sat,Afternoon,62,Low,0,222
+Vanilla Cake,Sat,Afternoon,60,Low,1,190
+Vanilla Cake,Tue,Morning,87,Very High,1,236
+Red Velvet Cake,Mon,Evening,18,Medium,0,364
+Strawberry Cake,Thu,Evening,15,Very Low,1,273
+Rainbow Cake,Sat,Morning,51,Very High,0,400
+Rainbow Cake,Sun,Afternoon,73,High,1,446
+Pineapple Cake,Sun,Afternoon,92,High,1,266
+Black Forest Cake,Mon,Evening,47,Medium,1,342
+Chocolate Cake,Thu,Morning,54,Medium,0,250
+Pineapple Cake,Thu,Morning,13,High,1,301
+Strawberry Cake,Mon,Evening,77,Medium,1,287
+Strawberry Cake,Sat,Evening,87,High,1,297
+Black Forest Cake,Wed,Afternoon,66,Very High,0,300
+Pineapple Cake,Wed,Morning,69,Low,0,201
+Butterscotch Cake,Sun,Morning,59,Very High,1,290
+Chocolate Cake,Thu,Afternoon,47,Very High,1,282
+Red Velvet Cake,Wed,Afternoon,89,High,1,398
+Rainbow Cake,Fri,Afternoon,64,Very Low,0,400
+Vanilla Cake,Wed,Evening,56,Medium,1,238
+Red Velvet Cake,Mon,Afternoon,54,Low,0,341
+Red Velvet Cake,Wed,Evening,69,Very High,1,368
+Rainbow Cake,Mon,Evening,95,Medium,0,400
+Vanilla Cake,Fri,Afternoon,32,Very High,1,216
+Butterscotch Cake,Sat,Evening,68,Medium,0,260
+Red Velvet Cake,Tue,Morning,58,Very Low,0,350
+Black Forest Cake,Fri,Morning,18,Low,1,327
+Vanilla Cake,Sun,Evening,91,Very High,1,222
+Chocolate Cake,Sun,Morning,40,Very Low,0,250
+Chocolate Cake,Thu,Afternoon,61,High,1,298
+Black Forest Cake,Sun,Morning,93,Very Low,1,328
+Butterscotch Cake,Tue,Evening,93,Very High,0,260
+Butterscotch Cake,Tue,Evening,68,High,0,283
+Rainbow Cake,Mon,Morning,95,Very Low,1,443
+Rainbow Cake,Fri,Afternoon,42,Very High,1,432
+Chocolate Cake,Fri,Evening,90,Very Low,0,250
+Strawberry Cake,Tue,Morning,55,Very Low,0,240
+Black Forest Cake,Tue,Afternoon,61,Very High,1,342
+Chocolate Cake,Thu,Evening,71,High,1,318
+Vanilla Cake,Mon,Morning,94,Medium,1,245
+Red Velvet Cake,Sun,Evening,50,Medium,0,350
+Red Velvet Cake,Wed,Afternoon,99,Very High,0,350
+Black Forest Cake,Wed,Morning,49,High,0,339
+Chocolate Cake,Fri,Morning,14,Very High,0,262
+Red Velvet Cake,Mon,Morning,84,Medium,1,381
+Vanilla Cake,Wed,Afternoon,100,Very Low,1,240
+Chocolate Cake,Tue,Morning,35,High,1,328
+Black Forest Cake,Sun,Afternoon,36,Low,0,291
