@@ -101,11 +101,6 @@ This project helped me understand the **real-world impact of AI on small busines
 
 ---
 
-## 🖼️ Screenshot
-
-![App Screenshot](screenshot_app.png)
-
----
 
 ## 📬 Contact
 
